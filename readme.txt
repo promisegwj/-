@@ -1,0 +1,11 @@
+README
+1、计算机语言为python，ipynp为编译器Jupyter生成的代码文件，已上传至github，
+可通过下方链接直接预览
+https://github.com/promisegwj/-/blob/master/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E4%BD%9C%E4%B8%9A%E6%94%B9.ipynb
+2、md文档为markdown格式文本，可通过下方链接直接预览
+https://github.com/promisegwj/-/blob/master/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E4%BD%9C%E4%B8%9A%E6%94%B9.md
+3、以上两种格式文档通过github的方式打开，会因渲染问题，皆存在部分缺陷，
+如不显示行号、数学公式显示不当、图片无法打开等，故转存为pdf格式，可通过下方链接下载
+https://github.com/promisegwj/-/blob/master/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E7%AC%94%E8%AE%B0.pdf
+4、上述所以文件均在下述项目目录·中：
+https://github.com/promisegwj/-
